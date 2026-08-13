@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/utsav-sorathiya-8a9a58259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utsav sorathiya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/utsav-sorathiya-8a9a58259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utsav sorathiya" height="30" width="40" /></a>
 <a href="https://kaggle.com/utsavsorathiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="utsavsorathiya" height="30" width="40" /></a>
 <a href="https://instagram.com/utsav_sorathiya665" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utsav_sorathiya665" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/utsav_sorathiya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="utsav_sorathiya" height="30" width="40" /></a>
